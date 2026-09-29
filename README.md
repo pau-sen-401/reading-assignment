@@ -197,3 +197,7 @@ Backend: https://github.com/obiekrix/reading-assignment
 This implementation focuses on delivering a clear end-to-end workflow for assigning books and tracking reading progress.
 
 The main simplifications are around authentication, production persistence, and UI polish. These were intentionally kept lightweight to prioritize the core product behavior within the challenge scope.
+
+
+
+///bla bla bla

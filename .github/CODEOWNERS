@@ -1,0 +1,6 @@
+# .github/CODEOWNERS -- reading-assignment-ui (frontend)
+# Format: path  @org/team
+
+README.md  @pau-sen-401/Team-A
+pom.xml    @ade-jokes
+
